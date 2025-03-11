@@ -1,0 +1,231 @@
+.active{
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.d-block{
+    color: white;
+}
+.textHeader2{
+    color: orange;
+    text-align: center;
+}
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='coral' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.body1 .card-img{
+    filter: brightness(30%)
+}
+.ta{
+    text-align: center;
+}
+.procherk{
+    color: rgb(236, 236, 42);
+}
+@media (max-width: 576px) {
+    .navbar1 {
+        display: none;
+    }
+    .icon-wrapper {
+        display: block;
+    }
+    .body1{
+        text-align: center;
+    }
+    h1{
+        text-align: center;
+        font-size: 60px;
+    }
+    .TextPK{
+        visibility: hidden;
+        display: none;
+    }
+    .TextMB{
+        color: orange;
+    }
+    p{
+        color: rgb(186, 184, 184);
+    }
+    /* .body2{
+        visibility: hidden;
+        display: none;
+    } */
+    .footer1{
+        text-align: center;
+    }
+    .TextMP{
+        font-size: 1.5rem;
+    }
+    .TextCard{
+        font-size: 1rem;
+    }
+    .footerPK{
+        visibility: hidden;
+        display: none;
+    }
+    .footerContact{
+        color: rgb(192, 192, 192);
+    }
+    .footerCity{
+        font-size: 1.3rem;
+    }    
+    .textFooter2{
+        text-align: center;
+    }
+    .textViveska1{
+        font-size: 2rem;
+    }
+    .textMain22{
+        font-size: 1.5rem;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    .BBOrange{
+        padding-bottom: 10px;
+        border-bottom: 2px solid orange;
+    }
+    .divText7Prhichin{
+        background-color: #343434;
+    }
+    .text222{
+        font-size: 0.5rem;
+    }
+    .textWhy{
+        font-size: 1.4rem;
+    }
+} 
+@media (min-width: 577px) {
+    .ta {
+        text-align: end;
+    }
+    .procherk{
+           color: gray;
+    }
+    .navbarMobileIcon{
+        display: none;
+    }
+    .textMain{
+        color: white;
+    }
+    .TextMB{
+        visibility: hidden;
+        display: none;
+    }
+    h1{
+        font-size: 80px;
+    }
+    .footer1Div1{
+        padding-left: 15%;
+    }
+    .TextMP{
+        font-size: 2rem;
+    }
+    .TextCard{
+        font-size: 1.5rem;
+    }
+    .footerContact{
+        visibility: hidden;
+        display: none;
+    } 
+    .textFooter2{
+        text-align: end;
+    }
+    .headerViveski{
+        visibility: hidden;
+        display: none;
+    }
+    .textViveska1{
+        font-size: 3rem;
+    }
+    .textMain22{
+        font-size: 2rem;
+        border-bottom: 1px solid gray;
+    }
+    ol {
+        columns: 2;
+        -webkit-columns: 2;
+        -moz-columns: 2;
+    }
+    .UslugaMobile{
+        visibility: hidden;
+        display: none;
+    }
+    .divText7Prhichin{
+        background-color: #575757;
+    }
+}
+.body1{
+    background-image: url(Rectangle\ 981.png);
+}
+h1{
+    border-bottom: 2px solid white;
+    -webkit-text-stroke: 1px #FFFFFF; 
+}
+.btn{
+    border-radius: 20px;
+    background-color: orange;  
+} 
+.btnMain{
+    background-color: gray;
+    width: 150px;
+}
+.body2{
+    background-color: rgb(47, 47, 47);
+}
+.textMain2{
+    font-size: 40px;
+}
+.text222{
+    color: white;
+}
+.svgMain{
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.footer1{
+    background-color: rgb(75, 75, 75);
+}
+.textFooter1{
+    font-size: 30px;
+}
+.btnFooter{
+    width: 200px;
+}
+.footer2{
+    background-color: black;
+}
+.textLink{
+    color: orange;
+}
+.textViveska1{
+    border-left: 2px solid white;
+}
+.mainCard1{
+    background-color: rgb(23, 23, 23);
+}
+.card7Prichin{
+    background-color: #343434;
+}
+.divText7Prhichin{
+    color: white;
+}
+.list-group-item{
+    font-size: 1.3rem;
+
+}
+.numberPrichin{
+    font-size: 3.5rem;
+    color: #6B6B6B;
+    text-align: center;
+}
+.textPrichin{
+    font-size: 1.2rem;
+}
+.btnUslugi{
+    background-color: #282828; 
+    color: #6D6D6D;
+}
+

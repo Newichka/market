@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Вывески",
+        "price": "От 5000 руб",
+        "svg": "icon",
+        "png": "./png/1841.png",
+        "style": "background-color: rgba(53, 47, 47, 0.75)"
+    },
+    {
+        "title": "Объёмные буквы",
+        "price": "От 60 руб/см",
+        "svg": "icon",
+        "png": "https://papik.pro/uploads/posts/2023-03/1677754698_papik-pro-p-bukva-k-krasivaya-risunok-obemnaya-20.jpg",
+        "style": "background-color: rgba(80, 59, 45, 0.75)"
+    },
+    {
+        "title": "Гибкий неон",
+        "price": "От 2000 руб",
+        "svg": "icon",
+        "png": "https://frankfurt.apollo.olxcdn.com/v1/files/zuljyef9s2su2-UZ/image;s=640x640",
+        "style": "background-color: rgba(94, 19, 19, 0.75)"
+    },
+    {
+        "title": "Согласование рекламы",
+        "price": "От 1000 руб",
+        "svg": "icon",
+        "png": "https://i.pinimg.com/736x/cc/e1/ac/cce1acd019607c0ae4d3b62db7b85b7f.jpg",
+        "style": "background-color: rgba(190, 180, 36, 0.75)"
+    },
+    {
+        "title": "Брендирование транспорта",
+        "price": "От 1500 руб",
+        "svg": "icon",
+        "png": "https://png.pngtree.com/element_origin_min_pic/16/11/10/33c89242a87cefcb564adbdcfa1f4f8e.jpg",
+        "style": "background-color: rgba(135, 82, 158, 0.75)"
+    },
+    {
+        "title": "Стенды",
+        "price": "От 1000 руб",
+        "svg": "icon",
+        "png": "https://static.baza.farpost.ru/v/1521438603967_bulletin",
+        "style": "background-color: rgba(53, 47, 47, 0.75)"
+    },
+    {
+        "title": "УФ печать",
+        "price": "От 500 руб",
+        "svg": "icon",
+        "png": "https://roskard.ru/wp-content/uploads/2020/05/a42f7cef815663279db6c2e35af2e9ab-640x640.jpg",
+        "style": "background-color: rgba(157, 18, 150, 0.75)"
+    },
+    {
+        "title": "Широкоформатная печать",
+        "price": "От 300 руб",
+        "svg": "icon",
+        "png": "https://shop.r10s.jp/saltbox/cabinet/06724890/imgrc0095178830.jpg",
+        "style": "background-color: rgba(42, 191, 194, 0.75)"
+    },
+    {
+        "title": "Наклейки",
+        "price": "От 10 руб/шт",
+        "svg": "icon",
+        "png": "./png/1847.png",
+        "style": "background-color: rgba(42, 104, 16, 0.75)"
+    },
+    {
+        "title": "Таблички",
+        "price": "От 300 руб",
+        "svg": "icon",
+        "png": "./png/18412.png",
+        "style": "background-color: rgba(103, 197, 206, 0.75)"
+    },
+    {
+        "title": "Фрезеровкв",
+        "price": "От 30 руб",
+        "svg": "icon",
+        "png": "./png/1846.png",
+        "style": "background-color: rgba(194, 119, 49, 0.75)"
+    },
+    {
+        "title": "Панелькронштейны",
+        "price": "От 8000 руб",
+        "svg": "icon",
+        "png": "./png/18431.png",
+        "style": "background-color: rgba(85, 11, 64, 0.75)"
+    }
+]
